@@ -1,5 +1,6 @@
 # GM
 Welcome to GENIO Management app
+
 WARNING: This app run on Expo
 
 If you going to clone this repo to your local, you need to following this instruction:
@@ -24,6 +25,7 @@ If you going to clone this repo to your local, you need to following this instru
 1. RUN: npm i react-native-calendars
 
 After install those library, now you can run the app on your local with: 
+
 => npm start
 
 If there is any problems, please look for instruction on your CMD to fix it.
