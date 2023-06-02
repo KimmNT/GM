@@ -1,20 +1,28 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React, { useEffect } from "react";
+import SplashScreen from "./screens/Splash";
+import { SafeAreaProvider } from "react-native-safe-area-context";
+import Routing from "./screens/router/Routing";
+import ConfirmAccount from "./screens/account/Confirm";
+import Reset from "./screens/account/Reset";
+import Success from "./screens/account/Success";
+import HomePage from "./screens/HomePage";
+import Drawering from "./screens/router/Drawering";
+import NotificationRouting from "./screens/router/NotificationRouting";
 
-export default function App() {
+const App = () => {
+  const [isSplashVisible, setSplashVisible] = React.useState(true);
+
+  useEffect(() => {
+    setTimeout(() => {
+      setSplashVisible(false);
+    }, 2500); // Set the time you want the splash screen to be visible
+  }, []);
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <SafeAreaProvider>
+      {isSplashVisible ? <SplashScreen /> : <Routing />}
+    </SafeAreaProvider>
   );
-}
+};
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+export default App;

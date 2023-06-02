@@ -1,0 +1,98 @@
+{
+  "studentMed": [
+    {
+      "studentID": "001512653",
+      "studentNumber": "HV-000000256",
+      "studentMedNumber": "SK-000000256",
+      "studentName": "Nguyễn Văn Tài",
+      "studentNickName": "tainguyen",
+      "studentImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+      "status": true,
+      "course": "Course Demo 1",
+      "class": "Class Demo 1",
+      "studentGender": "Nam",
+      "insurance": "Đã đóng",
+      "insuranceDay": "14-02-2023",
+      "insuranceStatus": true,
+      "insuranceNote": "",
+      "checkingHealth": [
+        {
+          "checkID": "412512",
+          "checkDay": "14-04-2023",
+          "checkHeight": 167,
+          "checkWeight": 45,
+          "checkBMI": 20.83,
+          "checkKeepWeight": 1244,
+          "checkShould": "Gluxit ngũ cốc, mì, gạo: 336g. Rau xanh: 400-500g. Trái cây: 100-200g. Cá tôm thịt trứng: 336g. Sữa tươi: 350ml. Ăn sáng đầy đủ",
+          "checkShouldnt": "Hạn chế ăn mặn. Hạn chế dầu mỡ, nhất là thịt mỡ. Hạn chế ăn cay. Hạn chế ăn các đồ thực phẩm chế biến sẵn"
+        },
+        {
+          "checkID": "872930",
+          "checkDay": "14-05-2023",
+          "checkHeight": 167,
+          "checkWeight": 40,
+          "checkBMI": 20.83,
+          "checkKeepWeight": 1523,
+          "checkShould": "random recommendations",
+          "checkShouldnt": "Hạn chế ăn mặn. Hạn chế dầu mỡ, nhất là thịt mỡ. Hạn chế ăn cay. Hạn chế ăn các đồ thực phẩm chế biến sẵn"
+        }
+      ]
+    },
+    {
+      "studentID": "001512412",
+      "studentNumber": "HV-000000241",
+      "studentMedNumber": "SK-000000241",
+      "studentName": "Nguyễn Minh Duy",
+      "studentNickName": "minky",
+      "studentImage": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=689&q=80",
+      "status": true,
+      "course": "Course Demo 2",
+      "class": "Class Demo 4",
+      "studentGender": "Nam",
+      "insurance": "Chưa đóng",
+      "insuranceDay": "Chưa có",
+      "insuranceStatus": false,
+      "insuranceNote": "",
+      "checkingHealth": [
+        {
+          "checkID": "415261",
+          "checkDay": "14-04-2023",
+          "checkHeight": 151,
+          "checkWeight": 34,
+          "checkBMI": 20.83,
+          "checkKeepWeight": 894,
+          "checkShould": "Gluxit ngũ cốc, mì, gạo: 336g. Rau xanh: 400-500g. Trái cây: 100-200g. Cá tôm thịt trứng: 336g. Sữa tươi: 350ml. Ăn sáng đầy đủ",
+          "checkShouldnt": "Hạn chế ăn mặn. Hạn chế dầu mỡ, nhất là thịt mỡ. Hạn chế ăn cay. Hạn chế ăn các đồ thực phẩm chế biến sẵn"
+        }
+      ]
+    },
+    {
+      "studentID": "001512114",
+      "studentNumber": "HV-000000211",
+      "studentMedNumber": "SK-000000211",
+      "studentName": "Nguyễn Minh Anh",
+      "studentNickName": "mia",
+      "studentImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80",
+      "status": false,
+      "course": "Course Demo 3",
+      "class": "Class Demo 1",
+      "studentGender": "Nữ",
+      "insurance": "Đã đóng",
+      "insuranceDay": "25-04-2022",
+      "insuranceStatus": false,
+      "insuranceNote": "",
+      "checkingHealth": [
+        {
+          "checkID": "614611",
+          "checkDay": "14-04-2023",
+          "checkHeight": 132,
+          "checkWeight": 55,
+          "checkBMI": 20.83,
+          "checkKeepWeight": 1002,
+          "checkShould": "Gluxit ngũ cốc, mì, gạo: 336g. Rau xanh: 400-500g. Trái cây: 100-200g. Cá tôm thịt trứng: 336g. Sữa tươi: 350ml. Ăn sáng đầy đủ",
+          "checkShouldnt": "Hạn chế ăn mặn. Hạn chế dầu mỡ, nhất là thịt mỡ. Hạn chế ăn cay. Hạn chế ăn các đồ thực phẩm chế biến sẵn"
+        }
+      ]
+    }
+  ]
+}

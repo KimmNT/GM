@@ -1,0 +1,181 @@
+{
+  "2023-05-22": {
+    "info": [
+      {
+        "hour": "05:00 PM",
+        "class": "HK M10 - e5"
+      },
+      {
+        "hour": "05:00 PM",
+        "class": "HK M10 - e5"
+      }
+    ],
+    "hasValue": true
+  },
+  "2023-05-23": {
+    "info": [
+      {
+        "hour": "07:00 AM",
+        "class": "HK-STop-m7"
+      }
+    ],
+    "hasValue": true
+  },
+  "2023-05-24": {
+    "info": [
+      {
+        "hour": "05:00 PM",
+        "class": "HK M10 - e5"
+      },
+      {
+        "hour": "05:00 PM",
+        "class": "HK M10 - e5"
+      }
+    ],
+    "hasValue": true
+  },
+  "2023-05-25": {
+    "info": [
+      {
+        "hour": "09:00 AM",
+        "class": "HK-S10-m7"
+      },
+      {
+        "hour": "05:00 PM",
+        "class": "Hk-S6-m7"
+      },
+      {
+        "hour": "05:00 PM",
+        "class": "TĐ - Stop-m7."
+      }
+    ],
+    "hasValue": true
+  },
+  "2023-05-26": {
+    "info": [
+      {
+        "hour": "",
+        "class": "Không có lịch học cho ngày hôm nay"
+      }
+    ]
+  },
+  "2023-05-27": {
+    "info": [
+      {
+        "hour": "07:00 AM",
+        "class": "HK-S10-m7"
+      },
+      {
+        "hour": "07:00 AM",
+        "class": "HK-STop-m7"
+      },
+      {
+        "hour": "07:00 AM",
+        "class": "Hk-S6-m7"
+      },
+      {
+        "hour": "07:00 AM",
+        "class": "TĐ - Stop-m7."
+      }
+    ],
+    "hasValue": true
+  },
+  "2023-05-28": {
+    "info": [
+      {
+        "hour": "07:00 AM",
+        "class": "HK-S10-m7"
+      },
+      {
+        "hour": "09:00 AM",
+        "class": "HK-STop-m7"
+      },
+      {
+        "hour": "10:00 AM",
+        "class": "Hk-S6-m7"
+      },
+      {
+        "hour": "05:00 PM",
+        "class": "TĐ - Stop-m7."
+      }
+    ],
+    "hasValue": true
+  },
+  "2023-05-29": {
+    "info": [
+      {
+        "hour": "09:00 AM",
+        "class": "HK-STop-m7"
+      },
+      {
+        "hour": "05:00 PM",
+        "class": "TĐ - Stop-m7"
+      }
+    ],
+    "hasValue": true
+  },
+  "2023-05-30": {
+    "info": [
+      {
+        "hour": "09:00 AM",
+        "class": "HK-STop-m7"
+      },
+      {
+        "hour": "05:00 AM",
+        "class": "Hk-S6-m7"
+      }
+    ],
+    "hasValue": true
+  },
+  "2023-05-31": {
+    "info": [
+      {
+        "hour": "07:00 AM",
+        "class": "HK-S10-m7"
+      },
+      {
+        "hour": "07:00 AM",
+        "class": "HK-STop-m7"
+      }
+    ],
+    "hasValue": true
+  },
+  "2023-06-01": {
+    "info": [
+      {
+        "hour": "07:00 AM",
+        "class": "HK-S10-m7"
+      },
+      {
+        "hour": "07:00 AM",
+        "class": "HK-STop-m7"
+      },
+      {
+        "hour": "07:00 AM",
+        "class": "TĐ - Stop-m7."
+      }
+    ],
+    "hasValue": true
+  },
+  "2023-06-02": {
+    "info": [
+      {
+        "hour": "",
+        "class": "Không có lịch học cho ngày hôm nay"
+      }
+    ]
+  },
+  "2023-06-03": {
+    "info": [
+      {
+        "hour": "07:00 AM",
+        "class": "Hk-S6-m7"
+      },
+      {
+        "hour": "05:00 PM",
+        "class": "TĐ - Stop-m7."
+      }
+    ],
+    "hasValue": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "name": "Nhắc nhở nghỉ học",
+      "time": "15-02-2023",
+      "content": "Học viên Nguyễn Văn Tài vắng mặt trong buổi học chiều ngày 15-02"
+    },
+    {
+      "id": 2,
+      "name": "Nhắc nhở nghỉ học",
+      "time": "26-04-2023",
+      "content": "Học viên Nguyễn Minh Duy vắng mặt trong buổi học chiều ngày 26-04"
+    },
+    {
+      "id": 3,
+      "name": "Nhắc nhở nghỉ học",
+      "time": "28-04-2023",
+      "content": "Học viên Nguyễn Văn Tài vắng mặt trong buổi học chiều ngày 28-04"
+    },
+    {
+      "id": 4,
+      "name": "Nhắc nhở nghỉ học",
+      "time": "26-05-2023",
+      "content": "Học viên Nguyễn Văn Tài vắng mặt trong buổi học chiều ngày 26-05"
+    }
+  ]
+}
