@@ -3,6 +3,7 @@ Welcome to GENIO Management app
 WARNING: This app run on Expo
 
 If you going to clone this repo to your local, you need to following this instruction:
+
 -- INSTALL --
 1. RUN: npm install --global expo-cli
 2. RUN: npm install --global eas-cli
