@@ -9,7 +9,7 @@ If you going to clone this repo to your local, you need to following this instru
 2. RUN: npm install --global eas-cli
 
 --- NAVIGATION ---
-1. npm install @react-navigation/native
+1. RUN: npm install @react-navigation/native
 2. RUN: npx expo install react-native-screens react-native-safe-area-context
 3. RUN: npm install @react-navigation/native-stack
 
@@ -26,7 +26,7 @@ If you going to clone this repo to your local, you need to following this instru
 After install those library, now you can run the app on your local with: 
 => npm start
 
-If there is any error, please look for instruction on your CMD to fix it.
+If there is any problems, please look for instruction on your CMD to fix it.
 
 THANK YOU!
 
